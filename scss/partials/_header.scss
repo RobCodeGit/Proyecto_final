@@ -1,0 +1,30 @@
+//Nesting o anidamiento
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    img{
+        width: 85px;
+        height: 85px;
+        
+    }
+    .hamburguer{
+        text-align: center;
+
+    }
+    .menu{
+        gap: 25px;
+        width: 100%;
+        justify-content: center;
+        font-family: 'Prompt', sans-serif;
+        ;
+        a:hover{
+            color: aqua! important;
+            
+        
+        }
+    }
+}

@@ -1,0 +1,24 @@
+// Importacion de archivos partials
+@import 'partials/reset.scss';
+@import 'partials/header';
+@import 'partials/fonts';
+@import 'partials/main.scss';
+@import 'partials/querys';
+@import 'partials/footer';
+//Partials
+
+.banner-2 img{
+    width: 100%;
+    height: 395px;
+
+}
+
+.banner_serv img{
+    width: 100%;
+    height: 350px;
+}
+
+.especialidades-2{
+    display: flex! important;
+    justify-content: space-around;
+}
